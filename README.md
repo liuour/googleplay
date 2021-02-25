@@ -8,6 +8,8 @@ YouTube Premium 家庭成员加入会弹出【无法加入家庭群组】，这�
 
 连接需转入国家/地区节点路线，在浏览器中，[转到 Google Play](https://play.google.com/store) 下拉至底部，可查看位置。
 
+![EKqWynexFpfhmcg](https://i.loli.net/2021/02/25/EKqWynexFpfhmcg.png)
+
 > 注：下面以转到印度为例，如果没有印度节点，可以在 Chrome 浏览器里安装 [Hide My IP VPN](https://chrome.google.com/webstore/detail/hide-my-ip-vpn/keodbianoliadkoelloecbhllnpiocoi) 插件，注册登录打开印度路线，速度不快够临时使用。
 
 ---
