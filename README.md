@@ -1,22 +1,20 @@
 # 更改 Google Play 的国家/地区设置
 
-YouTube Premium 家庭成员加入会弹出【无法加入家庭群组】，这时，需要将 Google Play 更改为同一地区。
+YouTube Premium 家庭成员加入会弹出无法加入家庭群组，需要将 Google Play 更改为同一地区。
 
-> 注：最简单的方法就是注册一个新 Google 账户，直接设置为印度，专门用来看 YouTube 比较方便。
-
----
-
-连接需转入国家/地区节点路线，在浏览器中，[转到 Google Play](https://play.google.com/store) 下拉至底部，可查看位置。
+在浏览器中，打开 [Google Play](https://play.google.com/store) 下拉至底部，可查看位置。
 
 ![EKqWynexFpfhmcg](https://i.loli.net/2021/02/25/EKqWynexFpfhmcg.png)
 
-> 注：下面以转到印度为例，如果没有印度节点，可以在 Chrome 浏览器里安装 [Hide My IP VPN](https://chrome.google.com/webstore/detail/hide-my-ip-vpn/keodbianoliadkoelloecbhllnpiocoi) 插件，注册登录打开印度路线，速度不快够临时使用。
+下面以转到印度地区为例，首先连接印度节点路线。
+
+> 注：如果没有印度节点，在 Chrome 浏览器里安装 [Hide My IP VPN](https://chrome.google.com/webstore/detail/hide-my-ip-vpn/keodbianoliadkoelloecbhllnpiocoi) 插件，注册登录并打开印度路线（速度不快够临时使用）。
 
 ---
 
 ### 电脑
 
-1. 在浏览器中，[转到 pay.google.com](http://pay.google.com/)。点击**设置**，在付款资料下，点击【国家/地区】旁边的修改图标。
+1. 在浏览器中打开 [pay.google.com](http://pay.google.com/)。点击**设置**，在付款资料下，点击【国家/地区】旁边的修改图标。
 
 ![tuvi6GdgQmbUaXs](https://i.loli.net/2021/02/25/tuvi6GdgQmbUaXs.png)
 
