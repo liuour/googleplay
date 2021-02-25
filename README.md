@@ -1,4 +1,4 @@
-# YouTube Premium 无法加入家庭群组｜更改 Google Play 的国家/地区设置
+# 更改 Google Play 的国家/地区设置
 
 YouTube Premium 家庭成员加入会弹出【无法加入家庭群组】，这时，需要将 Google Play 更改为同一地区。
 
